@@ -1,15 +1,15 @@
-> 基于python+django+vue.js开发的仓库管理系统
+> 基于python+django+vue.js开发的学生宿舍管理系统
 
 ### 功能介绍
 
 平台采用B/S结构，后端采用主流的Python语言进行开发，前端采用主流的Vue.js进行开发。
 
-功能包括：商品管理、分类管理、用户管理、日志管理、系统信息模块。
+功能包括：学生管理、宿舍管理、用户管理、日志管理、系统信息模块。
 
 
 ### 演示地址
 
-http://store.gitapp.cn
+http://dorm.gitapp.cn
 
 演示帐号：
 

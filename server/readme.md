@@ -6,12 +6,12 @@
 2. 打开cmd命令行，进入mysql，并新建数据库
 ```
 mysql -u root -p
-CREATE DATABASE IF NOT EXISTS python_store DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
+CREATE DATABASE IF NOT EXISTS python_dorm DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
 ```
 3. 恢复sql数据
 ```
-use python_store
-source python_store.sql
+use python_dorm
+source python_dorm.sql
 ```
 4. 修改settings.py中的配置信息
 5. 复制资源，将upload文件夹复制到server目录下

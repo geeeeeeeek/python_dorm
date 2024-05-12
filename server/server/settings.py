@@ -144,7 +144,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# 跨域配置
-#CORS_ALLOW_CREDENTIALS = True
-#CORS_ALLOW_ALL_ORIGINS = True
-#CORS_ALLOW_HEADERS = '*'
+
